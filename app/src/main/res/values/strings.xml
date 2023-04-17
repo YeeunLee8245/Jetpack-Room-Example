@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetpackRoomExample</string>
+    <string name="login_database">LOGIN_DATABASE</string>
 </resources>
